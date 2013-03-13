@@ -14,3 +14,5 @@ set tabstop=4
 "Auto indent
 set ai
 
+" colorshceme
+colorscheme evening
