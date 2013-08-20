@@ -16,3 +16,6 @@ set ai
 
 " colorshceme
 colorscheme evening
+
+" set  syntax on
+syntax on 
