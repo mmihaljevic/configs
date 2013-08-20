@@ -46,6 +46,7 @@ autoconf
 flex
 bison
 sqlite3
+git
 
 #desktop
 xchat
